@@ -1,0 +1,14 @@
+npm-debug.log
+scratchpad.txt
+node_modules
+coverage
+.DS_Store
+.sass-cache
+.vscode
+cdn
+dist
+_site
+src/tools/lib/simplify.js
+src/tools/utils/base.js
+src/tools/utils/median_util.js
+src/tools/utils/svg.js
